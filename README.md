@@ -159,7 +159,11 @@ We thank the authors of related dynamic graph benchmarks and baseline methods fo
 - [IRM](https://github.com/facebookresearch/InvariantRiskMinimization)
 - [vREx](https://github.com/capybaralet/REx_code_release)
 - [GroupDRO](https://github.com/kohpangwei/group_DRO)
-
+- [DyCIL](https://github.com/xxzhang99/DyCIL)
+- [EvoGOOD](https://github.com/RingBDStack/EvoGOOD)
+- [DyAug](https://github.com/bingreeky/DyAug)
+- [EQuAD](https://github.com/tianyao-aka/EQuAD)
+- [FreeDyG](https://github.com/Tianxzzz/FreeDyG)
 
 ---
 
